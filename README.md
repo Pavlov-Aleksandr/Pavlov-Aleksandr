@@ -1,7 +1,8 @@
-
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390" height="283">
 
 ###  Hi 👋 My name is Alex
 ###  I am a novice frontend developer 👨‍💻
+
 👍 I dream of making really high quality things       
 
 🏔️ Love and strive for beauty in everything, both in code and in the product itself        
