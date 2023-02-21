@@ -3,8 +3,11 @@
 ###  Hi 👋 My name is Alex
 ###  I am a novice frontend developer 👨‍💻
 👍 I dream of making really high quality things       
+
 🏔️ Love and strive for beauty in everything, both in code and in the product itself        
+
 💻 I wish to work on real projects        
+
 🤝 I want to become a part of a friendly team of professionals      
 
 ---------------------------
