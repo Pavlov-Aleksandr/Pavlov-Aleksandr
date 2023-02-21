@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390" height="283">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="255">
 
 ###  Hi 👋 My name is Alex
 ###  I am a novice frontend developer 👨‍💻
@@ -29,7 +29,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aleksandr-pavlov-5b80801bb"> 
+  <a href="https://www.linkedin.com/in/aleksandr-pavlov-"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
